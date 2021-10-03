@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tips on Wang Shuchao</title>
+    <link>https://wsc0117.github.io/categories/tips/</link>
+    <description>Recent content in Tips on Wang Shuchao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://wsc0117.github.io/categories/tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>个人作品</title>
+      <link>https://wsc0117.github.io/2018/02/09/vim-tips/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wsc0117.github.io/2018/02/09/vim-tips/</guid>
+      <description>&lt;h2 id=&#34;作品汇总&#34;&gt;作品汇总&lt;/h2&gt;
+&lt;p&gt;
+  &lt;img src=&#34;https://wsc0117.github.io/https://img.zhaohuabing.com/in-post/2018-02-09-vim-tips/vi-vim-cheat-sheet.svg&#34; alt=&#34;&#34;&gt;
+
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>所得证书</title>
+      <link>https://wsc0117.github.io/2018/05/22/user_authentication_authorization/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wsc0117.github.io/2018/05/22/user_authentication_authorization/</guid>
+      <description>所得证书 计算机一级 所得荣誉 两次评学分为班级前10，为全系前150</description>
+    </item>
+    
+  </channel>
+</rss>

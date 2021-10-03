@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Wang Shuchao</title>
+    <link>https://wsc0117.github.io/post/</link>
+    <description>Recent content in Posts on Wang Shuchao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://wsc0117.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to WangShuchao Blog</title>
+      <link>https://wsc0117.github.io/2017/11/03/hello-world/</link>
+      <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wsc0117.github.io/2017/11/03/hello-world/</guid>
+      <description>“因为热爱 ” 你好！ 这是我的第一个博客 或有欠缺，请多包含</description>
+    </item>
+    
+    <item>
+      <title>个人简介</title>
+      <link>https://wsc0117.github.io/2017/11/04/istio-install_and_example/</link>
+      <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wsc0117.github.io/2017/11/04/istio-install_and_example/</guid>
+      <description>简介 我是王书超，家在河北，就读于河北科技工程职业技术大学。所学专业是软件技术，热爱前端，热爱代码，热爱生活。 本人勤奋好学，适应能力强，有一定</description>
+    </item>
+    
+    <item>
+      <title>PHP简介</title>
+      <link>https://wsc0117.github.io/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wsc0117.github.io/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</guid>
+      <description>&lt;p&gt;PHP是一种易于学习和使用的服务器端脚本语言。只需要很少的编程知识你就能使用PHP建立一个真正交互的WEB站点。 PHP是能让你生成动态网页的工具之一。PHP网页文件被当作一般HTML网页文件来处理并且在编辑时你可以用编辑HTML的常规方法编写PHP&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>HTML5介绍</title>
+      <link>https://wsc0117.github.io/2018/04/16/using-helm-to-deploy-to-kubernetes/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wsc0117.github.io/2018/04/16/using-helm-to-deploy-to-kubernetes/</guid>
+      <description>前言 HTML5 是 HyperText Markup Language 5 的缩写，HTML5 技术结合了 HTML4.01 的相关标准并革新，符合现代网络发展要求，在 2008 年正式发布。HTML5 由不同的技术构成，其在互联网</description>
+    </item>
+    
+    <item>
+      <title>个人作品</title>
+      <link>https://wsc0117.github.io/2018/02/09/vim-tips/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wsc0117.github.io/2018/02/09/vim-tips/</guid>
+      <description>&lt;h2 id=&#34;作品汇总&#34;&gt;作品汇总&lt;/h2&gt;
+&lt;p&gt;
+  &lt;img src=&#34;https://wsc0117.github.io/https://img.zhaohuabing.com/in-post/2018-02-09-vim-tips/vi-vim-cheat-sheet.svg&#34; alt=&#34;&#34;&gt;
+
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>社会实践</title>
+      <link>https://wsc0117.github.io/2017/11/08/istio-canary-release/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wsc0117.github.io/2017/11/08/istio-canary-release/</guid>
+      <description>在校 参加了信息工程系自扫门前雪的活动 参加了志愿者协会的达活泉公园清扫活动 参加了看望敬老院活动 参加了志愿者协会的冬至包饺子活动 在家 情期间在家参</description>
+    </item>
+    
+    <item>
+      <title>所得证书</title>
+      <link>https://wsc0117.github.io/2018/05/22/user_authentication_authorization/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wsc0117.github.io/2018/05/22/user_authentication_authorization/</guid>
+      <description>所得证书 计算机一级 所得荣誉 两次评学分为班级前10，为全系前150</description>
+    </item>
+    
+    <item>
+      <title>生活</title>
+      <link>https://wsc0117.github.io/2018/05/01/may-day-jiulonghu/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://wsc0117.github.io/2018/05/01/may-day-jiulonghu/</guid>
+      <description>&lt;h2 id=&#34;南锣鼓巷&#34;&gt;南锣鼓巷&lt;/h2&gt;
+&lt;p&gt;南锣鼓巷是一条胡同，位于北京中轴线东侧的交道口地区，北起鼓楼东大街，南至平安大街，宽8米，全长787米，于元大都同期建成。是北京最古老的街区之一，已有740多年的历史。也位列规划中的25片旧城保护区之中。因其地势中间高、南北低，如一驼背人，故名罗锅巷。到了清朝，乾隆十五年（1750年）绘制的《京城全图》改称南锣鼓巷。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://wsc0117.github.io/post/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wsc0117.github.io/post/readme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on Wang Shuchao</title>
+    <link>https://wsc0117.github.io/categories/tech/</link>
+    <description>Recent content in Tech on Wang Shuchao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://wsc0117.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PHP简介</title>
+      <link>https://wsc0117.github.io/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wsc0117.github.io/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</guid>
+      <description>&lt;p&gt;PHP是一种易于学习和使用的服务器端脚本语言。只需要很少的编程知识你就能使用PHP建立一个真正交互的WEB站点。 PHP是能让你生成动态网页的工具之一。PHP网页文件被当作一般HTML网页文件来处理并且在编辑时你可以用编辑HTML的常规方法编写PHP&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>HTML5介绍</title>
+      <link>https://wsc0117.github.io/2018/04/16/using-helm-to-deploy-to-kubernetes/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wsc0117.github.io/2018/04/16/using-helm-to-deploy-to-kubernetes/</guid>
+      <description>前言 HTML5 是 HyperText Markup Language 5 的缩写，HTML5 技术结合了 HTML4.01 的相关标准并革新，符合现代网络发展要求，在 2008 年正式发布。HTML5 由不同的技术构成，其在互联网</description>
+    </item>
+    
+  </channel>
+</rss>
